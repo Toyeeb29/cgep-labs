@@ -1,0 +1,7 @@
+{
+  "note": "Security Hub could not be enabled - AWS free plan account limitations",
+  "account_id": "848928398887",
+  "cloudtrail_status": "IsLogging: true",
+  "cloudtrail_trail": "cgep-lab-mgmt",
+  "region": "us-east-1"
+}
